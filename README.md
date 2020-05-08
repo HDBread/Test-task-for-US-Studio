@@ -1,1 +1,1 @@
-# Test-task-for-US-Studio
+Выполненое тестовое задание для US Studio
